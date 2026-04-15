@@ -161,4 +161,3 @@ const PredictionChallenge: React.FC<{ favoriteTeam: string; darkMode: boolean }>
   const borderColor = darkMode ? '#2a4a7a' : '#ddd';
   return (
     <div style={{ background: bgColor, borderRadius: 20, padding: 20, marginBottom: 20, border: `2px dashed #667eea`, color
-   "commit new file "            
