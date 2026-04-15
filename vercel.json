@@ -5,4 +5,4 @@
   "devCommand": "npm start",
   "installCommand": "npm install"
 }
-"commit new file"
+fix vercel.json
